@@ -5,15 +5,15 @@ Welcome to the **Forage Projects** repository! This repository contains a collec
 ## Projects
 
 ### 1. Tata - Data Visualization
-- **Objective**: To create compelling data visualizations and derive actionable insights for Tata Group's business scenarios.
+- **Objective**: Created impactful data visualizations and insights for Tata Consultancy Services to support executive decision-making in a business simulation.
 - **Skills Applied**: Data Cleaning, Data Visualization (Tableau, Matplotlib), Insights Presentation.
 
 ### 2. Accenture - Data Analysis and Visualization
-- **Objective**: To perform comprehensive data analysis and present findings using visualizations for Accenture's use cases.
+- **Objective**: Analyzed and modeled multiple datasets to uncover content trends, delivering strategic insights through compelling visual presentations in an Accenture Data Analytics simulation.
 - **Skills Applied**: Data Manipulation, Exploratory Data Analysis (EDA), Visualization using Python and Power BI.
 
 ### 3. British Airways - Data Science
-- **Objective**: To develop predictive models and perform data-driven analysis to enhance British Airways' operational efficiency.
+- **Objective**: Developed a predictive model and analyzed customer reviews to uncover key buying behavior insights in a British Airways Data Science simulation.
 - **Skills Applied**: Machine Learning, Statistical Analysis, Predictive Modeling, Data Interpretation.
 
 ## Technologies and Tools Used
