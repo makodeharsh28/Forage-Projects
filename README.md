@@ -1,5 +1,7 @@
  # Forage Projects
 
+![Forage Projects](./banner.jpg "Forage Projects Banner")
+
 Welcome to the **Forage Projects** repository! This repository contains a collection of hands-on projects completed through Forage's virtual experience programs. These projects focus on applying concepts of **Data Analysis**, **Data Visualization**, and **Data Science** to real-world datasets and scenarios. Each project highlights my ability to work with diverse datasets, generate insights, and create impactful visualizations.
 
 ## Projects
