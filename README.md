@@ -18,7 +18,7 @@ Welcome to the **Forage Projects** repository! This repository contains a collec
 
 ## Technologies and Tools Used
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-- **Visualization Tools**: Tableau, Power BI, Matplotlib
+- **Visualization Tools**: Power BI, Matplotlib, Seaborn, PowerPoint
 - **Other Tools**: Jupyter Notebook, Excel
 
 ## Repository Structure
